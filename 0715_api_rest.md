@@ -26,7 +26,7 @@
 >    모든 resource는 일반적으로 
 >    http 인터페이스인 **GET, POST, PUT, DELETE** 4개의 메소드로 
 >    접근 되어야 함
-> 4. 서비스 내 **하나의 Resource가 **
+> 4. 서비스 내 **하나의 Resource가**
 >    **주변의 연관된 리소스들과 연결되어 표현**이 되어야 함
 
 ### URI (Uniform Resource Identifier)
